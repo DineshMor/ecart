@@ -1,0 +1,8 @@
+export const ActionTypes = {
+    DECREASE : 'DECREASE',
+    INCREASE : 'INCREASE',
+    REMOVE : 'REMOVE',
+    CLEAR_CART : 'CLEAR_CART',
+    GET_TOTALS : 'GET_TOTALS',
+    GET_AMOUNTS : 'GET_AMOUNTS'
+}
